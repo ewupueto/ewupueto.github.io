@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewupueto.github.io/etT/sitemap_index.txt
+Sitemap: https://ewupueto.github.io/uUo/sitemap_index.txt
+Sitemap: https://ewupueto.github.io/yTZ/sitemap_index.txt
+Sitemap: https://ewupueto.github.io/yaE/sitemap_index.txt
